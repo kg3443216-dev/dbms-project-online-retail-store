@@ -180,4 +180,4 @@ ORDER BY TotalSpent DESC;
 
 ## Author
 
-**Khushi Byahut**
+**Khushi Gupta**
